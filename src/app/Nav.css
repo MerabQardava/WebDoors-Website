@@ -19,6 +19,7 @@ nav{
     top: 50px;
     width: 90%;
     position: absolute;
+    z-index: 10000;
 }
 
 .sticky{

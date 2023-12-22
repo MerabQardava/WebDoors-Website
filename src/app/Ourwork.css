@@ -1,0 +1,70 @@
+header{
+    /*display: flex;*/
+}
+#workMain{
+    padding: 100px 175px 100px 175px;
+    box-sizing: border-box;
+}
+
+#workMain p {
+    color: #D0E0EF;
+    font-size: 18px;
+}
+
+h2{
+    color: #FFF;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+header p{
+    margin-top: 50px;
+    width: 50%;
+    text-align: center;
+    color: #D0E0EF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+header p b{
+    font-size: 20px;
+}
+
+#projectsContainer{
+    display: flex;
+    flex-direction: column;
+    /*background-color: red;*/
+    width: 100%;
+    height: fit-content;
+}
+
+.project{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    /*background-color: blue;*/
+    height: 33vh;
+    border-top:2px solid  rgba(255, 255, 255, 0.20);
+    padding: 25px 0 25px 0;
+}
+
+.text{
+    /*background-color: red;*/
+    width: 35%;
+    height: 100%;
+    /*background-color: red;*/
+}
+
+.text p{
+    font-size: 1.3vw !important;
+    color: rgba(208, 224, 239, 0.80);
+
+    text-align: justify;
+    font-weight: 100;
+    line-height: 32px; /* 123.077% */
+    letter-spacing: 0.26px;
+}

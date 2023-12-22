@@ -16,6 +16,7 @@
     font-weight: 500;
     letter-spacing: 2px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 #intro_container >:nth-child(2){
@@ -26,6 +27,7 @@
     line-height: 105.9%; /* 40.242px */
     letter-spacing: 1.9px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 #intro_container >:nth-child(3){
@@ -52,6 +54,7 @@ button{
 
 object{
     margin: 100px;
+    width: 45vw;
 }
 
 span{
