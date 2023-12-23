@@ -5,7 +5,7 @@ function Ourwork(props) {
     return (
         <div>
             <header>
-                <h2>Our life&apos;s work<img src="Vector.svg" alt=""/></h2>
+                <h2>Our life&apos;s work&nbsp;&nbsp;<img src="Vector.svg" alt=""/></h2>
                 <img src="group 83.png" alt=""/>
                 <p><b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Nisi, condimentum scelerisque viverra
                     magna

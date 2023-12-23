@@ -4,6 +4,7 @@ import Introduction from "@/app/Introduction";
 import Services from "@/app/Services";
 import Ourwork from "@/app/Ourwork";
 import News from "@/app/News";
+import Footer from "@/app/Footer";
 export default function Home() {
     return (
         <main id="main" className={styles}>
@@ -12,6 +13,7 @@ export default function Home() {
             <Services/>
             <Ourwork/>
             <News/>
+            <Footer/>
 
 
 
