@@ -39,11 +39,12 @@
 
 }
 
-button{
+#introButton{
+    cursor: pointer;
     letter-spacing: -0.27px;
     color: white;
-    font-weight: 700;
-    width: 18rem;
+    font-weight: 600;
+    width: 15rem;
     display: inline-flex;
     padding: 10px 20px;
     justify-content: space-between;
