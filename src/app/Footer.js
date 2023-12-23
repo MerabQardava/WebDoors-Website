@@ -21,7 +21,7 @@ function Footer(props) {
             <div id="socials">
                 <img src="/socials/Vector.png" alt=""/>
                 <img src="/socials/brandico_facebook-rect.png" alt=""/>
-                <img src="/socials/Ln.png" alt=""/>
+                <img src="/socials/ln.png" alt=""/>
                 <img src="/socials/twitter.png" alt=""/>
                 <img src="/socials/Group.png" alt=""/>
                 <img src="/socials/Group%2081.png" alt=""/>
